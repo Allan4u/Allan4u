@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi i'm Allan 
 
 <!--
 **Allan4u/Allan4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning **Lua and some programming language**
+
+
+![Welcome](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG1qamtuYmZ6eWRuc3gyNjI0ZHRyenZrYXZkc2h3c3d3ZmMzY2c3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGDNsLvqsBOhuU0/giphy.gif)
