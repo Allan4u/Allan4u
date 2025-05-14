@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 😄 Hey i'm Junior Developer<br> -💬 I am still in the learning stage to master several programming languages.
+😄 Hey i'm Junior Developer<br> 💬 I am still in the learning stage to master several programming languages.
 
 
 ## 🌐 Socials:
