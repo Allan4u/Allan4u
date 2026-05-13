@@ -56,9 +56,12 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Allan4u/Allan4u/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Allan4u/Allan4u/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/Allan4u/Allan4u/languages-output/languages.svg" height="150" alt="languages graph" /> <br>
+  <img src="https://raw.githubusercontent.com/Allan4u/Allan4u/trophy-output/trophy.svg" height="150" alt="trophy graph" /> <br>
+  <img src="https://raw.githubusercontent.com/Allan4u/Allan4u/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
